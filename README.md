@@ -19,6 +19,9 @@ The code was refactored as follows:
 - All implementations are substitutable (LSP).
 
 ## UML Class Diagram
+
+![image](https://github.com/JLNerecina/SOLID_Principles/blob/main/SOLID%20Principles.png)
+
 ```mermaid
 classDiagram
     direction TB
